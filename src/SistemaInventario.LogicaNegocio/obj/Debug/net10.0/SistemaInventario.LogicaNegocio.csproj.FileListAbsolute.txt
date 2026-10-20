@@ -1,0 +1,34 @@
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.deps.json
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.csproj.AssemblyReference.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.AssemblyInfoInputs.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.AssemblyInfo.cs
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaI.F9AD11CF.Up2Date
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\refint\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\ref\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.deps.json
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.LogicaNegocio.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\bin\Debug\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.csproj.AssemblyReference.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.AssemblyInfoInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.AssemblyInfo.cs
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaI.F9AD11CF.Up2Date
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\refint\SistemaInventario.LogicaNegocio.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\SistemaInventario.LogicaNegocio.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.LogicaNegocio\obj\Debug\net10.0\ref\SistemaInventario.LogicaNegocio.dll
