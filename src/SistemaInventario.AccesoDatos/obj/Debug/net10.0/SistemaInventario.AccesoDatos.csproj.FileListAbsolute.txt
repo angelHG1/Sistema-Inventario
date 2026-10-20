@@ -1,0 +1,30 @@
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.deps.json
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaI.AC5EC1CF.Up2Date
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\refint\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Arquitectura de software\Codigos\Primer Parcial Requisiciones\SistemaInventario.AccesoDatos\obj\Debug\net10.0\ref\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.deps.json
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\bin\Debug\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaI.AC5EC1CF.Up2Date
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\refint\SistemaInventario.AccesoDatos.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\SistemaInventario.AccesoDatos.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.AccesoDatos\obj\Debug\net10.0\ref\SistemaInventario.AccesoDatos.dll

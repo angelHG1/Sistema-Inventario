@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lGumrJXHWnE=",
+  "success": true,
+  "projectFilePath": "D:\\UCE\\Semestre 7\\Programación Avanzada\\entregable practica 1\\src\\SistemaInventario.Entidades\\SistemaInventario.Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hero1\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.13\\microsoft.net.illink.tasks.10.0.13.nupkg.sha512",
+    "C:\\Users\\hero1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.13\\microsoft.netcore.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\hero1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.13.nupkg.sha512",
+    "C:\\Users\\hero1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.13\\microsoft.aspnetcore.app.runtime.win-x64.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

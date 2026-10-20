@@ -1,0 +1,12 @@
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\bin\Release\net10.0\SistemaInventario.Entidades.deps.json
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\bin\Release\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\bin\Release\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.AssemblyInfoInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.AssemblyInfo.cs
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.csproj.CoreCompileInputs.cache
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\refint\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaInventario.Entidades.pdb
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\ref\SistemaInventario.Entidades.dll
+D:\UCE\Semestre 7\Programación Avanzada\entregable practica 1\src\SistemaInventario.Entidades\obj\Release\net10.0\SistemaI.5CDBAB74.Up2Date
